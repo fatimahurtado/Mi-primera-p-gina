@@ -1,0 +1,11 @@
+body{
+    background-color: rgba(113, 208,222,0.829);
+    color: crimson;
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(162, 64, 243);
+}
+.img1{
+   border-style: double dotted;
+}
